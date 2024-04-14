@@ -11,6 +11,7 @@
     addEventListener("load", function() {
       setTimeout(hideURLbar, 0);
     }, false);
+    //added comment
 
     function hideURLbar() {
       window.scrollTo(0, 1);
