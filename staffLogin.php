@@ -72,7 +72,7 @@
             </div>
 
             <div class="modal-body">
-              <form method="post" action="login.php" enctype="multipart/form-data">
+              <form method="post" action="staff.php" enctype="multipart/form-data">
                 <center> <input type="email" name="email" style="width:300px;" class="form-control" placeholder="Staff email" /> </center>
                 <br />
 

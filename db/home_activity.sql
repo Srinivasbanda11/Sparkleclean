@@ -61,7 +61,7 @@ CREATE TABLE `home_tasks` (
 --
 
 INSERT INTO `home_tasks` (`id`, `activity`, `tdate`, `dtime`, `status`) VALUES
-(109, 'fsfsf', '2022-03-19', '9:26:pm', '1');
+(109, 'kitchen', '2024-03-19', '9:26:pm', '1');
 
 -- --------------------------------------------------------
 
@@ -85,8 +85,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `password`, `email`, `address`, `image`, `mobile`, `status`) VALUES
-(9, 'yun aslmalsa', '202cb962ac59075b964b07152d234b70', 'hiwagaalias@gmail.com', 'village st., cpncusbcus', 'download.jpg', '0609449999', 1),
-(10, 'ALvin Gumatay', '81dc9bdb52d04dc20036dbd8313ed055', 'vingo260@yahoo.com', 'village st., cpncusbcus', '3.jpg', '0609449999', 1);
+(9, 'Srinivas banda', 'Qwerty@123', 'srinivas@gmail.com', 'kansas., op', 'download.jpg', '0609449999', 1),
+(10, 'chandu reddy', 'Qwerty@123', 'chandu@yahoo.com', 'texasz st., op', '3.jpg', '0609449999', 1);
 
 --
 -- Indexes for dumped tables
