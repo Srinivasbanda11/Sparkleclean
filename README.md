@@ -90,7 +90,7 @@ Sparkleclean/
 ## Development & Contributions
 
 ### Developer Information
-This project was developed by **Srinivas Banda** as a comprehensive solution for cleaning service management. The application demonstrates proficiency in full-stack web development using PHP, MySQL, and modern frontend technologies.
+This project was developed by **Srinivas** as a comprehensive solution for cleaning service management. The application demonstrates proficiency in full-stack web development using PHP, MySQL, and modern frontend technologies.
 
 ### Key Contributions
 - **Architecture Design:** Implemented a multi-tier architecture separating customer, staff, and admin functionalities
